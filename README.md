@@ -12,3 +12,6 @@
 8. update the app.py
 
 ECR Repo : 510670961706.dkr.ecr.ap-south-1.amazonaws.com/text-sum
+
+EC2 url: ec2-15-206-84-118.ap-south-1.compute.amazonaws.com
+15.206.84.118

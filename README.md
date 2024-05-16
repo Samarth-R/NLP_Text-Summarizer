@@ -10,3 +10,5 @@
 6. update the pipeline
 7. update the main.py
 8. update the app.py
+
+ECR Repo : 510670961706.dkr.ecr.ap-south-1.amazonaws.com/text-sum

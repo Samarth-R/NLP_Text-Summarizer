@@ -6,7 +6,6 @@ from textSummarizer.pipeline.stage_05_model_evaluation import ModelEvaluationTra
 from textSummarizer.logging import logger
 
 STAGE_NAME = "Data Ingestion stage"
-
 try:
     logger.info(f">>>>>>>> stage {STAGE_NAME} started <<<<<<<<<<<<<")
     data_ingestion = DataIngestionTrainingPipeline()
